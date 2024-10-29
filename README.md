@@ -208,6 +208,22 @@ Here are some resources to help you get started if you’re new to any of these 
 
 ---
 
+
+### Important Notice: Use of AI Tools
+
+**Attention Developers:**
+
+As part of the Code Savanna internship evaluation, it is imperative to maintain the integrity and originality of your work. Therefore, the use of AI tools or automated coding solutions is strictly prohibited. Engaging with such tools not only undermines the purpose of this project but may also lead to disqualification from the evaluation process.
+
+**Please note the following:**
+
+- **Originality is Key**: Your submission should reflect your individual skills and understanding of the technologies involved. Use of AI-generated code or assistance will be considered a violation of the guidelines.
+  
+- **Detection**: There are mechanisms in place to identify the use of AI tools. Any detected usage will result in immediate penalties, including disqualification.
+
+- **Professional Development**: This project is an opportunity for you to grow as a developer. Embrace the challenge, seek guidance when needed, and focus on honing your skills.
+
+
 #### Contact
 If you have any questions or encounter any issues, please reach out to your Code Savanna point of contact or open an issue in this repository.
 
