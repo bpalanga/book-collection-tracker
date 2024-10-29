@@ -121,6 +121,10 @@ The frontend should now be available at `http://localhost:3000`, and the backend
 
 ---
 
+#### Create a New Branch
+e.g intern/joseph
+
+
 #### Project Goals and Requirements
 
 Below is a list of tasks to guide you through the project. Each task can be tackled one at a time and marked off as you complete it.
